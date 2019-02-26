@@ -3,11 +3,11 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.controlador;
+package com.Acenteno.controlador;
 
-import com.mloya.modelo.Arista;
-import com.mloya.modelo.Aristas;
-import com.mloya.modelo.Puntos;
+import com.Acenteno.modelo.Arista;
+import com.Acenteno.modelo.Aristas;
+import com.Acenteno.modelo.Puntos;
 import java.awt.BorderLayout;
 import java.awt.FlowLayout;
 import java.awt.event.ActionEvent;
@@ -18,7 +18,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author MARIA LOYA
+ * @author Jair Centeno
  */
 public class VentanaPuntos extends JFrame{
     private Puntos puntos = new Puntos();

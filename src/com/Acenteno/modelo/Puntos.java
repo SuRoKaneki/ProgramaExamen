@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mloya.modelo;
+package com.Acenteno.modelo;
 
 import java.util.ArrayList;
 
 /**
  *
- * @author MARIA LOYA
+ * @author Jair Centeno
  * Lista con todos los puntos existentes
  */
 public class Puntos {
